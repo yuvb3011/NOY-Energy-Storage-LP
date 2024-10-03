@@ -32,7 +32,7 @@ h1 {
 p {
     font-weight: bold;
     font-size: 24px; /* Adjust the size as needed */
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .image-content img {
