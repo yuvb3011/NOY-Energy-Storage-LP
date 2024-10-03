@@ -1,0 +1,1 @@
+# NOY-Energy-Storage-LP
