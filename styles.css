@@ -31,6 +31,8 @@ h1 {
 
 p {
     font-weight: bold;
+    font-size: 18px; /* Adjust the size as needed */
+    text-decoration: underline;
 }
 
 .image-content img {
