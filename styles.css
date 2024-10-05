@@ -40,9 +40,9 @@ p {
     height: auto;
 }
 .logo-container {
-    margin-top: 10%;
-    text-align: center; /* Centers the logo */
-    padding: 20px 0; /* Adds some space around the logo */
+    position: absolute;
+    top: 10px;    /* Adjust as needed */
+    left: 10px;   /* Adjust as needed */
 }
 
 .company-logo {
